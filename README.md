@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="NBA Player Performance Dashboard" width="100%">
+</p>
+
 ## 🏀 NBA Player Performance Dashboard
 
 An interactive data analytics dashboard built with **Python**, **Pandas**, **Plotly**, and **Streamlit**, designed to analyze and visualize NBA 2023 player statistics.
